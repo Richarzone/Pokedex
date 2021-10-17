@@ -1,4 +1,6 @@
-First run this command:
+My first React proyect.
+
+To use, first run this command:
 
 ### `npm install`
 
