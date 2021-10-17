@@ -1,0 +1,12 @@
+.poke-screen{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 280px;
+    height: 270px;
+    padding: 10px;
+    margin-top: 9px;
+    margin-left: 15px;
+}

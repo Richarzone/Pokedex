@@ -1,0 +1,11 @@
+.poke-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 7px;
+    height: 80%;
+    padding: 10px;
+    margin-left: 5px;
+    background-color: rgb(133, 197, 240);
+}
